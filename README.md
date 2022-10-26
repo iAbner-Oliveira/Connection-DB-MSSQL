@@ -1,11 +1,11 @@
-<h1 align="left"> PYTHON - Database Connection </h1>
+<h1 align="left"> PYTHON - Database Connection <b>MSSQL</b> </h1>
 
 Script created in python to validate connection with the database
 
 ## :snake: Functionality for Script.
 
-- `Functionality 1`: Validate connection to <b>SQL SERVER</b> database
-- `Functionality 2`: 
+- `Functionality 1`: Validate connection to <b>SQL SERVER</b> database,
+- `Functionality 2`: Output for datas.
 
 ## Setup
 
